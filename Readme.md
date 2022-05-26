@@ -6,7 +6,9 @@ Os Resultados podem ser vistos abaixo:
 
 Resultado do coeficiente de determinação de Treino:
 R² = 0.73
+
 Resultado do coeficiente de determinação de Teste:
 R² = 0.69
+
 Resultado do Simulador de Teste:
 38742.53 litros
